@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\CMS24\\oad\\Providers\\ProductProvider\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC1B5CC-8FB1-4A7E-913C-D49DB2E131E4}|ProductProvider.Business\\ProductProvider.Business.csproj|c:\\projects\\cms24\\oad\\providers\\productprovider\\productprovider.business\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC1B5CC-8FB1-4A7E-913C-D49DB2E131E4}|ProductProvider.Business\\ProductProvider.Business.csproj|solutionrelative:productprovider.business\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC1B5CC-8FB1-4A7E-913C-D49DB2E131E4}|ProductProvider.Business\\ProductProvider.Business.csproj|c:\\projects\\cms24\\oad\\providers\\productprovider\\productprovider.business\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC1B5CC-8FB1-4A7E-913C-D49DB2E131E4}|ProductProvider.Business\\ProductProvider.Business.csproj|solutionrelative:productprovider.business\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C922B084-5744-4ABA-86B0-F48F8BF6CD3B}|ProductProvider.Tests\\ProductProvider.Tests.csproj|c:\\projects\\cms24\\oad\\providers\\productprovider\\productprovider.tests\\data\\fileservice_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C922B084-5744-4ABA-86B0-F48F8BF6CD3B}|ProductProvider.Tests\\ProductProvider.Tests.csproj|solutionrelative:productprovider.tests\\data\\fileservice_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Projects\\CMS24\\oad\\Providers\\ProductProvider\\ProductProvider.Business\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "ProductProvider.Business\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Projects\\CMS24\\oad\\Providers\\ProductProvider\\ProductProvider.Business\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "ProductProvider.Business\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:46:28.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Projects\\CMS24\\oad\\Providers\\ProductProvider\\ProductProvider.Business\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductProvider.Business\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Projects\\CMS24\\oad\\Providers\\ProductProvider\\ProductProvider.Business\\Services\\ProductService.cs",
+              "RelativeToolTip": "ProductProvider.Business\\Services\\ProductService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA3wC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:46:03.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileService_Tests.cs",
+              "DocumentMoniker": "C:\\Projects\\CMS24\\oad\\Providers\\ProductProvider\\ProductProvider.Tests\\Data\\FileService_Tests.cs",
+              "RelativeDocumentMoniker": "ProductProvider.Tests\\Data\\FileService_Tests.cs",
+              "ToolTip": "C:\\Projects\\CMS24\\oad\\Providers\\ProductProvider\\ProductProvider.Tests\\Data\\FileService_Tests.cs",
+              "RelativeToolTip": "ProductProvider.Tests\\Data\\FileService_Tests.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:45:54.71Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1473,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
